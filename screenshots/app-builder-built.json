@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "食愈",
+      "hasCanvas": false,
+      "bodyTextLen": 217,
+      "bodyTextHash": "223fb7b12fe7fb7bcf322e6c23631e689cc00a281178218740f488e798112a79",
+      "bodyTextPrefix": "食愈 体验演示 精准营养 · 动态闭环 让每个人都能获得 真正可执行的饮食方案 不是一次性问卷。根据你的生活约束生成餐单，用打卡",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "食愈",
+      "hasCanvas": false,
+      "bodyTextLen": 217,
+      "bodyTextHash": "223fb7b12fe7fb7bcf322e6c23631e689cc00a281178218740f488e798112a79",
+      "bodyTextPrefix": "食愈 体验演示 精准营养 · 动态闭环 让每个人都能获得 真正可执行的饮食方案 不是一次性问卷。根据你的生活约束生成餐单，用打卡",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
